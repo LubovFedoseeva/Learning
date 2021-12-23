@@ -1,5 +1,6 @@
 # Learning
-This is directory with some modules on learning on KarpovCourses.
+This is the directory with some modules on learning on KarpovCourses.
+
 The modules are:
 - Python  
 - Advanced python  
